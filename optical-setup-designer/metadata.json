@@ -1,0 +1,5 @@
+{
+  "name": "Optical Setup Designer",
+  "description": "A web application for designing optical setups visually. Users can place, move, and rotate optical components on a grid, edit their properties, visualize light rays, and export the entire setup as a JSON file.",
+  "requestFramePermissions": []
+}
