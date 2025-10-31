@@ -30,5 +30,3 @@ A modern, research-grade web application for designing and visualizing optical s
 
 ---
 
-*This project was created as a demonstration of modern frontend engineering and AI integration capabilities.*
-*Contact: Prakhar Maheshwari (7906641128)*
